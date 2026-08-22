@@ -1,4 +1,4 @@
-980,110,Robotic Arm
-980,270,ISS Solar Array
-980,430,Earth Horizon
-980,590,Clouds
+960,130,Robotic Arm
+1110,290,ISS Radiator
+1190,450,Earth Horizon
+1010,620,Atmosphere
