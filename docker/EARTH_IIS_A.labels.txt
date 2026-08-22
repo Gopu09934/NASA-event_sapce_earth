@@ -1,3 +1,4 @@
-877,187,Pulsar
-423,90,Deep Space
-1204,472,Ionized Gas
+1020,120,ISS Radiator
+1020,280,ISS Modules
+1020,440,Ocean
+1020,600,Atmosphere
