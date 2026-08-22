@@ -1,4 +1,4 @@
 1170,120,Spacecraft
 1020,280,ISS Modules
-1150,440,Ocean
+1150,440,Atmosphere
 970,600,Earth Horizon
