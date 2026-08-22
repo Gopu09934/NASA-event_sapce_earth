@@ -1,3 +1,4 @@
-1135,88,Cosmic Web
-855,117,Stellar Explosion
-656,347,Radiation Zone
+1000,100,Satellite
+1000,240,ISS Truss
+1000,380,Earth Horizon
+1000,520,Clouds
