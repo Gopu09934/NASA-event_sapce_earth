@@ -1,4 +1,4 @@
-1015,110,ISS Solar Array
+1015,110,Satellite
 1160,270,ISS Modules
 940,430,Earth Horizon
 1090,590,Atmosphere
