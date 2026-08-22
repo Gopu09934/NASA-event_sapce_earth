@@ -1,3 +1,4 @@
-739,128,Ionized Gas
-1024,314,Supernova Debris
-414,233,Energy Jets
+1000,110,Spacecraft
+1000,270,ISS Modules
+1000,430,Ocean
+1000,590,Atmosphere
