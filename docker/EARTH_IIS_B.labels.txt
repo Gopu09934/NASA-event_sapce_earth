@@ -1,4 +1,4 @@
-1000,100,Satellite
-1000,240,ISS Truss
-1000,380,Earth Horizon
-1000,520,Clouds
+1120,100,Satellite
+980,250,ISS Truss
+1180,410,Ocean
+1040,580,Clouds
