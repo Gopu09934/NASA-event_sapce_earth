@@ -1,4 +1,4 @@
 1120,100,Satellite
 980,250,ISS Truss
-1180,410,Ocean
+1180,410,Earth
 1040,580,Clouds
