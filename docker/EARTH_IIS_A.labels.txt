@@ -1,4 +1,4 @@
-1020,120,ISS Radiator
-1020,280,ISS Modules
-1020,440,Ocean
-1020,600,Atmosphere
+1015,110,ISS Solar Array
+1160,270,ISS Modules
+940,430,Earth Horizon
+1090,590,Atmosphere
