@@ -1,3 +1,4 @@
-920,352,Dust Clouds
-580,428,Background Star
-1037,90,Hot Plasma
+1015,110,Satellite
+1160,270,ISS Modules
+940,430,Earth Horizon
+1090,590,Atmosphere
